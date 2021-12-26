@@ -1,6 +1,6 @@
 # ndt-rep
 
-This is a replication of [1], see `ndt-rep.ipynb`. 
+This is a qualitative replication of Figure 3a in [1], see `ndt-rep.ipynb`. 
 
 
 ### dir structure
