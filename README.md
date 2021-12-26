@@ -15,8 +15,8 @@ Here's the dir structure. The `data/` folder hosts the Lorenz data. The `figs` f
 ├── doc
 │   └── ndt-rep.html
 ├── figs
-│   ├── rates_fig3a1.png
-│   ├── rates_fig3a2.png
+│   ├── rates_fig4a1.png
+│   ├── rates_fig4a2.png
 │   └── rates_heatmap.png
 ├── ndt-rep.ipynb
 ├── demo_load_lorenz.ipynb
